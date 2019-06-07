@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great stream",
+      "id": 1
+    },
+    {
+      "title": "New Forms Create",
+      "description": "Forma New style 2d",
+      "userId": "118289947438033566233",
+      "id": 9
+    },
+    {
+      "title": "Test 3",
+      "description": "Proba test 3",
+      "userId": "118289947438033566233",
+      "id": 10
+    },
+    {
+      "title": "Nikola",
+      "description": "Test 3",
+      "userId": "118289947438033566233",
+      "id": 11
+    }
+  ]
+}
